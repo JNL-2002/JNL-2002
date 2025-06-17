@@ -1,6 +1,6 @@
 <div align="center">
   
-## Park Jung Hwan
+# Park Jung Hwan
 
 #### JustNatural 백엔드 개발자 박정환 입니다.
 
