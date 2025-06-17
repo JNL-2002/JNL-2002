@@ -1,6 +1,8 @@
 <div align="center">
   
-## JustNatural 백엔드 개발자 박정환 입니다.
+## Park Jung Hwan
+
+#### JustNatural 백엔드 개발자 박정환 입니다.
 
 효율성을 가장 중시하며 언제 어디서나 더 효율적인 방식을 찾습니다.
 
