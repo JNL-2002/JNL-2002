@@ -8,6 +8,5 @@
 
 작은 시간을 투자하여 큰 이득을 보는 것에 희열을 느끼며 배운 것은 기억을 잘 하는 것이 강점이며 새로운 변수에 많은 것을 배웁니다.
 
-<img src="https://img.shields.io/badge/JavaScript-#F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
 </div>
 
