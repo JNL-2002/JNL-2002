@@ -11,7 +11,7 @@
 [2025-06-30 웹 개발 진행하다 소프트웨어 개발에 조금 더 힘 쓰는 중]
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={jnl9327})](https://solved.ac/{jnl9327})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jnl9327)](https://solved.ac/jnl9327)
 
 </div>
 
