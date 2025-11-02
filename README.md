@@ -8,8 +8,6 @@
 
 작은 시간을 투자하여 큰 이득을 보는 것에 희열을 느끼며 배운 것은 기억을 잘 하는 것이 강점이며 새로운 변수에 많은 것을 배웁니다.
 
-[2025-06-30 웹 개발 진행하다 소프트웨어 개발에 조금 더 힘 쓰는 중]
-
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jnl9327)](https://solved.ac/jnl9327)
 
